@@ -15,7 +15,7 @@ Colab: [Word2Vec](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP1/DESAFIO1-W
 
 ## TP2: bot basado en reglas
 
-<img src="Images/02.jpg" height="250" width="300">
+<img src="Images/02.jpg" height="200" width="200">
 
 Se crea un bot basado en reglas que responde consultas sobre inteligencia artificial.
 
