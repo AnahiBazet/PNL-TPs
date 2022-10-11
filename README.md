@@ -17,7 +17,7 @@ Colab: [Word2Vec](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP1/DESAFIO1-W
 
 Se crea un bot basado en reglas que responde consultas sobre inteligencia artificial.
 
-<img src="Images/02.jpg" height="200" width="250">
+<img src="Images/02.jpg" height="200" width="300">
 
 * Tokenización y lematización con spaCy.
 * Tratamiento de stop words.
