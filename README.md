@@ -42,7 +42,7 @@ Colab: [Custom embeddings with Gensim](https://github.com/AnahiBazet/PNL-TPs/blo
 
 Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para entrenar los modelos. De esta manera, la predicción de la próxima palabra va a estar relacionada con el contexto de la historia presentada.
 
-<img src="Images/04.jpg" height="150" width="200">
+<img src="Images/04.jpg" height="180" width="200">
 
 * LSTM many to one.
 * Embeddings custom.
