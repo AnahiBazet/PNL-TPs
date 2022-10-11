@@ -7,6 +7,8 @@ Se vectorizan y comparan documentos con diferentes representaciones.
 
 ![img1](Images/01.jpg)
 
+<img src="http://url.to/image.png" align="left" height="48" width="48" >
+
 * Conceptos generales: corpus, documento, vocabulario.
 * Representaciones: OHE, vectores de frecuencia y TF-IDF.
 * Comparación de documentos: similitud coseno.
