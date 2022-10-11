@@ -31,3 +31,12 @@ Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la
 * Graficos con T-SNE.
 
 Colab: [Custom embeddings con Gensim](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP3/DESAFIO3-CustomEmbeddingGensim%20v2.ipynb)
+
+## TP4: predicción de la próxima palabra
+
+Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para entrenar los modelos. De esta manera, la predicción de la próxima palabra va a estar relacionada con el contexto de la historia presentada en el libro.
+
+* LSTM many to one.
+* Se compara una arquitectura simple sin bidireccionalidad con otros tres modelos: uno de arquitectura más compleja (con mayor profundidad y cantidad de neuronas), otro con bidireccionalidad, y por último, uno que combina ambos.
+
+Colab: [Next word prediction](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP4/DESAFIO4-Predicci%C3%B3nProximaPalabra.ipynb)
