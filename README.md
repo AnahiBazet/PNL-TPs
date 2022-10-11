@@ -15,9 +15,9 @@ Colab: [Word2Vec](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP1/DESAFIO1-W
 
 ## TP2: bot basado en reglas
 
-<img src="Images/02.jpg" height="200" width="250">
-
 Se crea un bot basado en reglas que responde consultas sobre inteligencia artificial.
+
+<img src="Images/02.jpg" height="200" width="250">
 
 * Tokenización y lematización con spaCy.
 * Tratamiento de stop words.
@@ -30,6 +30,8 @@ Colab: [Rule-Based Bot](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP2/DESA
 
 Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para crear embeddings customizados de palabras basadas en ese contexto.
 
+<img src="Images/03.jpg" height="200" width="250">
+
 * Librería Gensim.
 * Skip-Gram vs. CBOW de ventana 2 y 4.
 * Graficos con T-SNE.
@@ -39,6 +41,8 @@ Colab: [Custom embeddings with Gensim](https://github.com/AnahiBazet/PNL-TPs/blo
 ## TP4: predicción de la próxima palabra
 
 Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para entrenar los modelos. De esta manera, la predicción de la próxima palabra va a estar relacionada con el contexto de la historia presentada.
+
+<img src="Images/04.jpg" height="200" width="250">
 
 * LSTM many to one.
 * Embeddings custom.
@@ -50,6 +54,8 @@ Colab: [Next word prediction](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP
 
 Se utilizan las críticas de compradores de ropa para determinar la evaluación (cuántas estrellas les asignan al producto).
 
+<img src="Images/05.jpg" height="200" width="250">
+
 * Clasificación multi-clase.
 * LSTM many to one.
 * Embeddings Glove vs. FastText vs. custom.
@@ -59,6 +65,8 @@ Colab: [Sentiment analysis](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP5/
 ## TP6: bot conversacional
 
 Se construye un BOT en inglés para responder a preguntas del usuario (QA).
+
+<img src="Images/06.jpg" height="200" width="250">
 
 * LSTM encoder-decoder.
 * Embeddings FastText.
