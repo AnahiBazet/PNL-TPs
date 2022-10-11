@@ -61,3 +61,7 @@ Se construye un BOT en inglés para responder a preguntas del usuario (QA).
 * Con regularización vs. sin regularización.
 
 Colab: [Bot QA](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP6/DESAFIO6-Bot_QA.ipynb)
+
+## ¡Gracias!
+Por cualquier consulta me pueden contactar enviando un correo a anahibazet@gmail.com.
+
