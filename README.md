@@ -5,6 +5,8 @@ Este repositorio contiene los trabajos prácticos de la materia Procesamiento de
 
 Se vectorizan y comparan documentos con diferentes representaciones.
 
+![img1](images/01.jpg)
+
 * Conceptos generales: corpus, documento, vocabulario.
 * Representaciones: OHE, vectores de frecuencia y TF-IDF.
 * Comparación de documentos: similitud coseno.
