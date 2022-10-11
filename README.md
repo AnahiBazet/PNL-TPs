@@ -54,7 +54,7 @@ Colab: [Next word prediction](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP
 
 Se utilizan las críticas de compradores de ropa para determinar la evaluación (cuántas estrellas les asignan al producto).
 
-<img src="Images/05.jpg" height="200" width="250">
+<img src="Images/05.jpg" height="200" width="300">
 
 * Clasificación multi-clase.
 * LSTM many to one.
@@ -66,7 +66,7 @@ Colab: [Sentiment analysis](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP5/
 
 Se construye un BOT en inglés para responder a preguntas del usuario (QA).
 
-<img src="Images/06.jpg" height="200" width="250">
+<img src="Images/06.jpg" height="200" width="300">
 
 * LSTM encoder-decoder.
 * Embeddings FastText.
