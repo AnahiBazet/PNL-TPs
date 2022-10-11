@@ -30,13 +30,24 @@ Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la
 * Skip-Gram vs. CBOW de ventana 2 y 4.
 * Graficos con T-SNE.
 
-Colab: [Custom embeddings con Gensim](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP3/DESAFIO3-CustomEmbeddingGensim%20v2.ipynb)
+Colab: [Custom embeddings with Gensim](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP3/DESAFIO3-CustomEmbeddingGensim%20v2.ipynb)
 
 ## TP4: predicción de la próxima palabra
 
 Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para entrenar los modelos. De esta manera, la predicción de la próxima palabra va a estar relacionada con el contexto de la historia presentada.
 
 * LSTM many to one.
+* Embeddings custom.
 * Se compara una arquitectura simple sin bidireccionalidad con otros tres modelos: uno de arquitectura más compleja (con mayor profundidad y cantidad de neuronas), otro con bidireccionalidad, y por último, uno que combina ambos.
 
 Colab: [Next word prediction](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP4/DESAFIO4-Predicci%C3%B3nProximaPalabra.ipynb)
+
+## TP5: análisis de sentimientos
+
+Se utilizan las críticas de compradores de ropa para determinar la evaluación (cuántas estrellas les asignan al producto).
+
+* Clasificación multi-clase.
+* LSTM many to one.
+* Embeddings Glove vs. FastText vs. custom.
+
+Colab: [Sentiment analysis](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP5/DESAFIO5-Sentiment_analysis_embedding_LSTM.ipynb)
