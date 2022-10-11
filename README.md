@@ -11,6 +11,9 @@ Colab: [Word2Vec](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP1/DESAFIO1-W
 
 ## TP2: bot basado en reglas
 
+* Tokenización y lematización con spaCy.
+* Stop words.
+* Modelo DNN (Dense Neuronal Networks).
 * Bag Of Word (BOW)
 * TF-IDF
 
