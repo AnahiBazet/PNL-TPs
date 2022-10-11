@@ -17,3 +17,11 @@ Colab: [Word2Vec](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP1/DESAFIO1-W
 * Bag Of Word (BOW) vs. TF-IDF.
 
 Colab: [Rule-Based Bot](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP2/DESAFIO2-Rule_BasedBOT.ipynb)
+
+## TP3: embeddings customizados
+
+* Librería Gensim.
+* Skip-Gram, CBOW de ventana 2 y 4.
+* T-SNE.
+
+Colab: [Custom embeddings con Gensim](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP3/DESAFIO3-CustomEmbeddingGensim%20v2.ipynb)
