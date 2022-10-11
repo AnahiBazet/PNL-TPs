@@ -24,7 +24,7 @@ Colab: [Rule-Based Bot](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP2/DESA
 
 ## TP3: embeddings customizados
 
-Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para crear embeddings de palabras basadas en ese contexto.
+Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para crear embeddings customizados de palabras basadas en ese contexto.
 
 * Librería Gensim.
 * Skip-Gram vs. CBOW de ventana 2 y 4.
