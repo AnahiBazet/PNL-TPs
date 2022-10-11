@@ -11,6 +11,8 @@ Colab: [Word2Vec](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP1/DESAFIO1-W
 
 ## TP2: bot basado en reglas
 
+Se crea un bot basado en reglas que responde consultas sobre inteligencia artificial.
+
 * Tokenización y lematización con spaCy.
 * Tratamiento de stop words.
 * Modelo DNN (Dense Neuronal Networks).
@@ -19,6 +21,8 @@ Colab: [Word2Vec](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP1/DESAFIO1-W
 Colab: [Rule-Based Bot](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP2/DESAFIO2-Rule_BasedBOT.ipynb)
 
 ## TP3: embeddings customizados
+
+Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para crear embeddings de palabras basadas en ese contexto.
 
 * Librería Gensim.
 * Skip-Gram, CBOW de ventana 2 y 4.
