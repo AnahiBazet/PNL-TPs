@@ -51,3 +51,11 @@ Se utilizan las críticas de compradores de ropa para determinar la evaluación 
 * Embeddings Glove vs. FastText vs. custom.
 
 Colab: [Sentiment analysis](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP5/DESAFIO5-Sentiment_analysis_embedding_LSTM.ipynb)
+
+## TP6: bot conversacional
+
+* LSTM encoder-decoder.
+* Embeddings FastText.
+* Con regularización vs. sin regularización.
+
+Colab: [Bot QA](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP6/DESAFIO6-Bot_QA.ipynb)
