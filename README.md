@@ -3,6 +3,8 @@ Este repositorio contiene los trabajos prácticos de la materia Procesamiento de
 
 ## TP1: vectorización de documentos
 
+Se vectorizan y comparan documentos con diferentes representaciones.
+
 * Conceptos generales: corpus, documento, vocabulario.
 * Representaciones: OHE, vectores de frecuencia y TF-IDF.
 * Comparación de documentos: similitud coseno.
@@ -25,7 +27,7 @@ Colab: [Rule-Based Bot](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP2/DESA
 Se elige el libro "Harry Potter y La piedra filosofal", primero de la saga de la autora J.K. Rowling, para crear embeddings de palabras basadas en ese contexto.
 
 * Librería Gensim.
-* Skip-Gram, CBOW de ventana 2 y 4.
-* T-SNE.
+* Skip-Gram vs. CBOW de ventana 2 y 4.
+* Graficos con T-SNE.
 
 Colab: [Custom embeddings con Gensim](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP3/DESAFIO3-CustomEmbeddingGensim%20v2.ipynb)
