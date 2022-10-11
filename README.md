@@ -54,6 +54,8 @@ Colab: [Sentiment analysis](https://github.com/AnahiBazet/PNL-TPs/blob/main/TP5/
 
 ## TP6: bot conversacional
 
+Se construye un BOT en inglés para responder a preguntas del usuario (QA).
+
 * LSTM encoder-decoder.
 * Embeddings FastText.
 * Con regularización vs. sin regularización.
